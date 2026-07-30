@@ -1,35 +1,45 @@
 ﻿ID,Handle,Command,Title,Menu Item: ID,Menu Item: Command,Menu Item: Title,Menu Item: Resource Type,Menu Item: Resource Handle,Menu Item: URL,Menu Item: Parent Title,Menu Item: Position
-,main-menu,MERGE,Main menu,,MERGE,Home,FRONTPAGE,,,,1
-,main-menu,MERGE,Main menu,,MERGE,Shop,HTTP,,/collections/under-the-neem-trees,,2
-,main-menu,MERGE,Main menu,,MERGE,3 Piece Sets,HTTP,,/collections/three-piece-sets,Shop,1
-,main-menu,MERGE,Main menu,,MERGE,2 Piece Sets,HTTP,,/collections/two-piece-sets,Shop,2
-,main-menu,MERGE,Main menu,,MERGE,Kurtas,HTTP,,/collections/kurtas,Shop,3
-,main-menu,MERGE,Main menu,,MERGE,Tops,HTTP,,/collections/tops,Shop,4
-,main-menu,MERGE,Main menu,,MERGE,Gowns,HTTP,,/collections/gowns,Shop,5
-,main-menu,MERGE,Main menu,,MERGE,Fabric,HTTP,,/collections/cotton,,3
-,main-menu,MERGE,Main menu,,MERGE,Cotton,HTTP,,/collections/cotton,Fabric,1
-,main-menu,MERGE,Main menu,,MERGE,Cotton Flex,HTTP,,/collections/cotton-flex,Fabric,2
-,main-menu,MERGE,Main menu,,MERGE,Cotton Satin,HTTP,,/collections/cotton-satin,Fabric,3
-,main-menu,MERGE,Main menu,,MERGE,Rayon,HTTP,,/collections/rayon,Fabric,4
-,main-menu,MERGE,Main menu,,MERGE,Romanam,HTTP,,/collections/romanam,Fabric,5
-,main-menu,MERGE,Main menu,,MERGE,Fendy Silk,HTTP,,/collections/fendy-silk,Fabric,6
-,main-menu,MERGE,Main menu,,MERGE,Occasion,HTTP,,/collections/festive,,4
-,main-menu,MERGE,Main menu,,MERGE,Festive,HTTP,,/collections/festive,Occasion,1
-,main-menu,MERGE,Main menu,,MERGE,Office Wear,HTTP,,/collections/office-wear,Occasion,2
-,main-menu,MERGE,Main menu,,MERGE,Daily Wear,HTTP,,/collections/daily-wear,Occasion,3
-,main-menu,MERGE,Main menu,,MERGE,Family Gatherings,HTTP,,/collections/family-gatherings,Occasion,4
-,main-menu,MERGE,Main menu,,MERGE,Casual,HTTP,,/collections/casual,Occasion,5
-,main-menu,MERGE,Main menu,,MERGE,Wedding,HTTP,,/collections/wedding,Occasion,6
-,main-menu,MERGE,Main menu,,MERGE,New In,HTTP,,/collections/new-arrivals,,5
-,main-menu,MERGE,Main menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,New In,1
-,main-menu,MERGE,Main menu,,MERGE,Under the Neem Trees,HTTP,,/collections/under-the-neem-trees,New In,2
-,main-menu,MERGE,Main menu,,MERGE,About,HTTP,,/pages/about-us,,6
-,main-menu,MERGE,Main menu,,MERGE,Contact,HTTP,,/pages/contact,,7
-,footer,MERGE,Footer menu,,MERGE,Shop all,HTTP,,/collections/under-the-neem-trees,,1
-,footer,MERGE,Footer menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,,2
-,footer,MERGE,Footer menu,,MERGE,New arrivals,HTTP,,/collections/new-arrivals,,3
-,footer,MERGE,Footer menu,,MERGE,Size guide,HTTP,,/pages/size-guide,,4
-,footer,MERGE,Footer menu,,MERGE,Help centre,HTTP,,/pages/faqs,,5
-,footer,MERGE,Footer menu,,MERGE,Our stores,HTTP,,/pages/our-store,,6
-,footer,MERGE,Footer menu,,MERGE,Contact us,HTTP,,/pages/contact,,7
-,footer,MERGE,Footer menu,,MERGE,About us,HTTP,,/pages/about-us,,8
+,main-menu,REPLACE,Main menu,,MERGE,Shop,HTTP,,/collections/under-the-neem-trees,,1
+,main-menu,REPLACE,Main menu,,MERGE,Shop by Category,HTTP,,/collections/under-the-neem-trees,Shop,1
+,main-menu,REPLACE,Main menu,,MERGE,3 Piece Sets,HTTP,,/collections/three-piece-sets,Shop by Category,1
+,main-menu,REPLACE,Main menu,,MERGE,2 Piece Sets,HTTP,,/collections/two-piece-sets,Shop by Category,2
+,main-menu,REPLACE,Main menu,,MERGE,Kurtas,HTTP,,/collections/kurtas,Shop by Category,3
+,main-menu,REPLACE,Main menu,,MERGE,Tops,HTTP,,/collections/tops,Shop by Category,4
+,main-menu,REPLACE,Main menu,,MERGE,Gowns,HTTP,,/collections/gowns,Shop by Category,5
+,main-menu,REPLACE,Main menu,,MERGE,Shop by Fabric,HTTP,,/collections/cotton,Shop,2
+,main-menu,REPLACE,Main menu,,MERGE,Cotton,HTTP,,/collections/cotton,Shop by Fabric,1
+,main-menu,REPLACE,Main menu,,MERGE,Cotton Flex,HTTP,,/collections/cotton-flex,Shop by Fabric,2
+,main-menu,REPLACE,Main menu,,MERGE,Cotton Satin,HTTP,,/collections/cotton-satin,Shop by Fabric,3
+,main-menu,REPLACE,Main menu,,MERGE,Rayon,HTTP,,/collections/rayon,Shop by Fabric,4
+,main-menu,REPLACE,Main menu,,MERGE,Romanam,HTTP,,/collections/romanam,Shop by Fabric,5
+,main-menu,REPLACE,Main menu,,MERGE,Fendy Silk,HTTP,,/collections/fendy-silk,Shop by Fabric,6
+,main-menu,REPLACE,Main menu,,MERGE,Shop by Occasion,HTTP,,/collections/festive,Shop,3
+,main-menu,REPLACE,Main menu,,MERGE,Festive,HTTP,,/collections/festive,Shop by Occasion,1
+,main-menu,REPLACE,Main menu,,MERGE,Office Wear,HTTP,,/collections/office-wear,Shop by Occasion,2
+,main-menu,REPLACE,Main menu,,MERGE,Daily Wear,HTTP,,/collections/daily-wear,Shop by Occasion,3
+,main-menu,REPLACE,Main menu,,MERGE,Family Gatherings,HTTP,,/collections/family-gatherings,Shop by Occasion,4
+,main-menu,REPLACE,Main menu,,MERGE,Casual,HTTP,,/collections/casual,Shop by Occasion,5
+,main-menu,REPLACE,Main menu,,MERGE,Wedding,HTTP,,/collections/wedding,Shop by Occasion,6
+,main-menu,REPLACE,Main menu,,MERGE,The Edit,HTTP,,/collections/new-arrivals,Shop,4
+,main-menu,REPLACE,Main menu,,MERGE,New Arrivals,HTTP,,/collections/new-arrivals,The Edit,1
+,main-menu,REPLACE,Main menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,The Edit,2
+,main-menu,REPLACE,Main menu,,MERGE,Under the Neem Trees,HTTP,,/collections/under-the-neem-trees,The Edit,3
+,main-menu,REPLACE,Main menu,,MERGE,More,HTTP,,/,Shop,5
+,main-menu,REPLACE,Main menu,,MERGE,Home,HTTP,,/,More,1
+,main-menu,REPLACE,Main menu,,MERGE,About,HTTP,,/pages/about-us,More,2
+,main-menu,REPLACE,Main menu,,MERGE,Contact,HTTP,,/pages/contact,More,3
+,footer,REPLACE,Footer menu,,MERGE,Shop all,HTTP,,/collections/under-the-neem-trees,,1
+,footer,REPLACE,Footer menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,,2
+,footer,REPLACE,Footer menu,,MERGE,New arrivals,HTTP,,/collections/new-arrivals,,3
+,footer,REPLACE,Footer menu,,MERGE,Size guide,HTTP,,/pages/size-guide,,4
+,footer,REPLACE,Footer menu,,MERGE,Help centre,HTTP,,/pages/faqs,,5
+,footer,REPLACE,Footer menu,,MERGE,Our stores,HTTP,,/pages/our-store,,6
+,footer,REPLACE,Footer menu,,MERGE,Contact us,HTTP,,/pages/contact,,7
+,footer,REPLACE,Footer menu,,MERGE,About us,HTTP,,/pages/about-us,,8
+,collection-top,REPLACE,Collection sidebar,,MERGE,3 Piece Sets,HTTP,,/collections/three-piece-sets,,1
+,collection-top,REPLACE,Collection sidebar,,MERGE,2 Piece Sets,HTTP,,/collections/two-piece-sets,,2
+,collection-top,REPLACE,Collection sidebar,,MERGE,Kurtas,HTTP,,/collections/kurtas,,3
+,collection-top,REPLACE,Collection sidebar,,MERGE,Tops,HTTP,,/collections/tops,,4
+,collection-top,REPLACE,Collection sidebar,,MERGE,Gowns,HTTP,,/collections/gowns,,5
+,collection-top,REPLACE,Collection sidebar,,MERGE,New Arrivals,HTTP,,/collections/new-arrivals,,6
+,collection-top,REPLACE,Collection sidebar,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,,7
