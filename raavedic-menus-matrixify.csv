@@ -1,8 +1,8 @@
 ﻿ID,Handle,Command,Title,Menu Item: ID,Menu Item: Command,Menu Item: Title,Menu Item: Resource Type,Menu Item: Resource Handle,Menu Item: URL,Menu Item: Parent Title,Menu Item: Position
 ,main-menu,MERGE,Main menu,,MERGE,Home,FRONTPAGE,,,,1
 ,main-menu,MERGE,Main menu,,MERGE,Shop,COLLECTION,under-the-neem-trees,,,2
-,main-menu,MERGE,Main menu,,MERGE,3 Piece Sets,COLLECTION,3-piece-sets,,Shop,1
-,main-menu,MERGE,Main menu,,MERGE,2 Piece Sets,COLLECTION,2-piece-sets,,Shop,2
+,main-menu,MERGE,Main menu,,MERGE,3 Piece Sets,COLLECTION,three-piece-sets,,Shop,1
+,main-menu,MERGE,Main menu,,MERGE,2 Piece Sets,COLLECTION,two-piece-sets,,Shop,2
 ,main-menu,MERGE,Main menu,,MERGE,Kurtas,COLLECTION,kurtas,,Shop,3
 ,main-menu,MERGE,Main menu,,MERGE,Tops,COLLECTION,tops,,Shop,4
 ,main-menu,MERGE,Main menu,,MERGE,Gowns,COLLECTION,gowns,,Shop,5
