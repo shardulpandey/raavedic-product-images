@@ -1,6 +1,6 @@
 ﻿ID,Handle,Command,Title,Menu Item: ID,Menu Item: Command,Menu Item: Title,Menu Item: Resource Type,Menu Item: Resource Handle,Menu Item: URL,Menu Item: Parent Title,Menu Item: Position
-,main-menu,REPLACE,Main menu,,MERGE,Shop,HTTP,,/collections/under-the-neem-trees,,1
-,main-menu,REPLACE,Main menu,,MERGE,Shop by Category,HTTP,,/collections/under-the-neem-trees,Shop,1
+,main-menu,REPLACE,Main menu,,MERGE,Shop,HTTP,,/collections/new-arrivals,,1
+,main-menu,REPLACE,Main menu,,MERGE,Shop by Category,HTTP,,/collections/three-piece-sets,Shop,1
 ,main-menu,REPLACE,Main menu,,MERGE,3 Piece Sets,HTTP,,/collections/three-piece-sets,Shop by Category,1
 ,main-menu,REPLACE,Main menu,,MERGE,2 Piece Sets,HTTP,,/collections/two-piece-sets,Shop by Category,2
 ,main-menu,REPLACE,Main menu,,MERGE,Kurtas,HTTP,,/collections/kurtas,Shop by Category,3
@@ -23,12 +23,9 @@
 ,main-menu,REPLACE,Main menu,,MERGE,The Edit,HTTP,,/collections/new-arrivals,Shop,4
 ,main-menu,REPLACE,Main menu,,MERGE,New Arrivals,HTTP,,/collections/new-arrivals,The Edit,1
 ,main-menu,REPLACE,Main menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,The Edit,2
-,main-menu,REPLACE,Main menu,,MERGE,Under the Neem Trees,HTTP,,/collections/under-the-neem-trees,The Edit,3
-,main-menu,REPLACE,Main menu,,MERGE,More,HTTP,,/,Shop,5
-,main-menu,REPLACE,Main menu,,MERGE,Home,HTTP,,/,More,1
-,main-menu,REPLACE,Main menu,,MERGE,About,HTTP,,/pages/about-us,More,2
-,main-menu,REPLACE,Main menu,,MERGE,Contact,HTTP,,/pages/contact,More,3
-,footer,REPLACE,Footer menu,,MERGE,Shop all,HTTP,,/collections/under-the-neem-trees,,1
+,main-menu,REPLACE,Main menu,,MERGE,About,HTTP,,/pages/about-us,The Edit,3
+,main-menu,REPLACE,Main menu,,MERGE,Contact,HTTP,,/pages/contact,The Edit,4
+,footer,REPLACE,Footer menu,,MERGE,Shop all,HTTP,,/collections/new-arrivals,,1
 ,footer,REPLACE,Footer menu,,MERGE,Bestsellers,HTTP,,/collections/bestsellers,,2
 ,footer,REPLACE,Footer menu,,MERGE,New arrivals,HTTP,,/collections/new-arrivals,,3
 ,footer,REPLACE,Footer menu,,MERGE,Size guide,HTTP,,/pages/size-guide,,4
