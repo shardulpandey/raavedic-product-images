@@ -33,6 +33,10 @@
 ,footer,REPLACE,Footer menu,,MERGE,Our stores,HTTP,,/pages/our-store,,6
 ,footer,REPLACE,Footer menu,,MERGE,Contact us,HTTP,,/pages/contact,,7
 ,footer,REPLACE,Footer menu,,MERGE,About us,HTTP,,/pages/about-us,,8
+,footer,REPLACE,Footer menu,,MERGE,Terms and conditions,HTTP,,/pages/terms,,9
+,footer,REPLACE,Footer menu,,MERGE,Refund policy,HTTP,,/policies/refund-policy,,10
+,footer,REPLACE,Footer menu,,MERGE,Privacy policy,HTTP,,/policies/privacy-policy,,11
+,footer,REPLACE,Footer menu,,MERGE,Shipping policy,HTTP,,/policies/shipping-policy,,12
 ,collection-top,REPLACE,Collection sidebar,,MERGE,3 Piece Sets,HTTP,,/collections/three-piece-sets,,1
 ,collection-top,REPLACE,Collection sidebar,,MERGE,2 Piece Sets,HTTP,,/collections/two-piece-sets,,2
 ,collection-top,REPLACE,Collection sidebar,,MERGE,Kurtas,HTTP,,/collections/kurtas,,3
